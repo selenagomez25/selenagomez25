@@ -23,7 +23,6 @@ i am a passionate c++ developer and full stack engineer with experience in desig
 - encrypted irc (internet relay chat) communication
 - custom oop jit-based language with a custom compiler written in c and a native function interface similar to the JNI
 - injectable minecraft 1.20.4 hacked client with a webgui
-- java obfuscator
 ```
 
 <img align="left" src="https://komarev.com/ghpvc/?username=selenagomez25&color=ff69b4">
