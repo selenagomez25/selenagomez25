@@ -11,7 +11,7 @@
 i am a passionate c++ developer and full stack engineer with experience in designing and implementing high-performance applications.
 
 ## skills
-- programming languages: c++, java, go, rust, javascript, html, css
+- programming languages: c/c++, c#, java/kt, go, rust, js/ts, html, css, php, python
 - frameworks & libraries: react, node.js, express, bootstrap
 - tools & technologies: git, docker, rest APIs, mongodb
 - development practices: agile methodology, continuous integration/deployment (ci/cd)
