@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
+  <img height="150" src="https://i.pinimg.com/736x/57/70/76/5770766dd7eff085fc4d0b6e59e25e5f.jpg" />
   
   <h1>hi, i'm pathos 👋</h1>
   <p>offensive security researcher | reverse engineer | low-level developer</p>
