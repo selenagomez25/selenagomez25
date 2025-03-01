@@ -15,7 +15,7 @@
 
 ## about me  
 
-- interested in hardware, kernel development, and graphics programming (opengl)  
+- interested in hardware, kernel development, and learning graphics programming (opengl)  
 - working with hypervisors, jvm internals, and low-level security research  
 - reverse engineering native binaries & managed runtimes  
 
