@@ -1,18 +1,5 @@
-<h3 align="center">pathos</h3>
+i make random stuff
 
-<p align="center">
-  trying to build with purpose
-</p>
-
-<p align="center">
-  full stack · low level · backend · tools
-</p>
-
-<p align="center">
-  <code>rust</code> · <code>go</code> · <code>c++</code> · <code>java</code> · <code>ts/js</code> · <code>python</code>
-</p>
-
-<p align="center">
-  <a href="https://t.me/elorigol">telegram</a> · 
-  <a href="https://discord.com/users/1126202321550975078">discord</a>
-</p>
+![status](https://api.statusbadges.me/badge/status/1126202321550975078?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/1126202321550975078)
+[![spotify](https://api.statusbadges.me/badge/spotify/1126202321550975078)](https://api.statusbadges.me/openspotify/1126202321550975078)
