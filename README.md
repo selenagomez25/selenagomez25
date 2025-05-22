@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <code>rust</code> · <code>go</code> · <code>zig</code> · <code>c++</code> · <code>java</code> · <code>ts/js</code> · <code>python</code>
+  <code>rust</code> · <code>go</code> · <code>c++</code> · <code>java</code> · <code>ts/js</code> · <code>python</code>
 </p>
 
 <p align="center">
