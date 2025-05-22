@@ -1,16 +1,18 @@
-## Hi there 👋
+<h3 align="center">pathos</h3>
 
-<!--
-**selenagomez25/selenagomez25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  trying to build with purpose
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  full stack · low level · backend · tools
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <code>rust</code> · <code>go</code> · <code>zig</code> · <code>c++</code> · <code>java</code> · <code>ts/js</code> · <code>python</code>
+</p>
+
+<p align="center">
+  <a href="https://t.me/elorigol">telegram</a> · 
+  <a href="https://discord.com/users/1126202321550975078">discord</a>
+</p>
