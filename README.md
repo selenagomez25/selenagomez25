@@ -31,7 +31,7 @@
             ~
             <a href="https://t.me/elorigol">telegram</a>
         </samp>
-        <br>
+        <br> <br>
         <img src="https://komarev.com/ghpvc/?username=selenagomez25&style=flat-square&color=b22222&label=views">
         <img src="https://img.shields.io/badge/Freelancer-b22222?style=flat-square&logo=Freelancer&logoColor=white">
       </td>
