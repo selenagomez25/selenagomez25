@@ -1,43 +1,40 @@
-<p float="left">
-    <img align="left" width="200" src="banner.png" alt="banner">
-    <p float="left">
+<div align="center">
+  <table border="0" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="padding-right: 20px; vertical-align: top; border: none;">
+        <img width="200" src="banner.png" alt="banner">
+      </td>
+      <td style="vertical-align: top; border: none;">
         <samp>
-            my name is pathos
+            <b>my name is pathos</b>
             <br>
-            &nbsp;languages: c / c++ / go / rust; js / ts; py; html / css;
+            &nbsp;languages: c/c++, go, rust, js/ts, python, html/css
             <br>
-            &nbsp;stacks: fullstack; backend; systems; automation;
+            &nbsp;stacks: fullstack, backend, systems, automation, devops
             <br>
             <br>
-        </samp>
-        <samp>
-            what i build
+            <b>what i build</b>
             <br>
-            &nbsp;backend services + apis (high-performance, scalable)
+            &nbsp;• high-performance backend services & apis (rust, python, sql/nosql)
             <br>
-            &nbsp;- rust, python, sql / nosql
-        </samp>
-        <samp>
-            <br>&nbsp;game software + tools
-            <br>&nbsp;- c++, reverse engineering, mods, hacks
-        </samp>
-        <samp>
-            <br>&nbsp;modding tools + systems
-            <br>&nbsp;- kotlin, java, minecraft, forge, fabric
-        </samp>
-        <samp>
-            <br>&nbsp;full-stack web applications
-            <br>&nbsp;- ts / react, node.js, tailwind, docker
+            &nbsp;• game software & tools (c++, reverse engineering, mods, hacks)
+            <br>
+            &nbsp;• modding tools & systems (kotlin, java, minecraft forge/fabric)
+            <br>
+            &nbsp;• full-stack web applications (ts/react, node.js, tailwind, docker)
+            <br>
+            &nbsp;• automation scripts & tooling for various tasks
         </samp>
         <br>
-        <samp>
+        <br> <samp>
             <a href="https://discord.com/users/1126202321550975078/">discord</a>
             ~
             <a href="https://t.me/elorigol">telegram</a>
         </samp>
         <br>
-        <br>
         <img src="https://komarev.com/ghpvc/?username=selenagomez25&style=flat-square&color=b22222&label=views">
         <img src="https://img.shields.io/badge/Freelancer-b22222?style=flat-square&logo=Freelancer&logoColor=white">
-    </p>
-</p>
+      </td>
+    </tr>
+  </table>
+</div>
